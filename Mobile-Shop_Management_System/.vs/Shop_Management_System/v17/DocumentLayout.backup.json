@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|c:\\users\\arafat\\desktop\\applications\\shop_management_system-master\\shop_management_system-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|c:\\users\\arafat\\desktop\\applications\\shop_management_system-master\\shop_management_system-master\\cus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:cus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:mobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:user_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARAFAT_DESKTOP_SHOP_MANAGEMENT_SYSTEM_MASTER_MOBILE_MS.MDF/True/SqlTable/dbo.DoctorsTbl.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARAFAT_DESKTOP_SHOP_MANAGEMENT_SYSTEM_MASTER_MOBILE_MS.MDF/True/SqlTable/dbo.User_L.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6CD94511-A733-46AC-924A-846514313597}|Shop_Management_System.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\mobilephone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\MobilePhone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cus.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\cus.cs",
+              "RelativeDocumentMoniker": "cus.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\cus.cs [Design]",
+              "RelativeToolTip": "cus.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T19:31:50.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\loading.cs",
+              "RelativeDocumentMoniker": "loading.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\loading.cs [Design]",
+              "RelativeToolTip": "loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T05:05:07.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\create.cs",
+              "RelativeDocumentMoniker": "create.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\create.cs [Design]",
+              "RelativeToolTip": "create.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:45:50.609Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T21:55:24.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loading.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\loading.cs",
+              "RelativeDocumentMoniker": "loading.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\loading.cs",
+              "RelativeToolTip": "loading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:15:38.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\View.cs",
+              "RelativeDocumentMoniker": "View.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\View.cs [Design]",
+              "RelativeToolTip": "View.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:50:39.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\User_Login.cs",
+              "RelativeDocumentMoniker": "User_Login.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\User_Login.cs [Design]",
+              "RelativeToolTip": "User_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:48:15.05Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\home.cs [Design]",
+              "RelativeToolTip": "home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:49:06.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mobile.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\mobile.cs",
+              "RelativeDocumentMoniker": "mobile.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\mobile.cs",
+              "RelativeToolTip": "mobile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:38:16.546Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\View.cs",
+              "RelativeDocumentMoniker": "View.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\View.cs",
+              "RelativeToolTip": "View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:15:53.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\home.cs",
+              "RelativeToolTip": "home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:15:39.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mobile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\mobile.cs",
+              "RelativeDocumentMoniker": "mobile.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\mobile.cs [Design]",
+              "RelativeToolTip": "mobile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:38:14.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.User_L.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARAFAT_DESKTOP_SHOP_MANAGEMENT_SYSTEM_MASTER_MOBILE_MS.MDF/True/SqlTable/dbo.User_L.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARAFAT_DESKTOP_SHOP_MANAGEMENT_SYSTEM_MASTER_MOBILE_MS.MDF/True/SqlTable/dbo.User_L.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T18:59:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.DoctorsTbl.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARAFAT_DESKTOP_SHOP_MANAGEMENT_SYSTEM_MASTER_MOBILE_MS.MDF/True/SqlTable/dbo.DoctorsTbl.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_ARAFAT_DESKTOP_SHOP_MANAGEMENT_SYSTEM_MASTER_MOBILE_MS.MDF/True/SqlTable/dbo.DoctorsTbl.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-07T19:41:56.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Shop_Management_System-master\\Customer.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Customer.cs",
+              "RelativeToolTip": "..\\..\\..\\Shop_Management_System-master\\Customer.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAQwLcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:40:58.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MobilePhone.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Shop_Management_System-master\\MobilePhone.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\MobilePhone.cs",
+              "RelativeToolTip": "..\\..\\..\\Shop_Management_System-master\\MobilePhone.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAhwKMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:15:46.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Shop_Management_System-master\\Form1.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Shop_Management_System-master\\Form1.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:15:07.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User_Login.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\User_Login.cs",
+              "RelativeDocumentMoniker": "User_Login.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\User_Login.cs",
+              "RelativeToolTip": "User_Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:49:20.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MobilePhone.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\MobilePhone.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Shop_Management_System-master\\MobilePhone.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\MobilePhone.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Shop_Management_System-master\\MobilePhone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:49:08.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Customer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Shop_Management_System-master\\Customer.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Customer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Shop_Management_System-master\\Customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:49:10.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "create.cs",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\create.cs",
+              "RelativeDocumentMoniker": "create.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\create.cs",
+              "RelativeToolTip": "create.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAMwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:48:54.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\applications\\Shop_Management_System-master\\Shop_Management_System-master\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-07T18:45:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Shop_Management_System-master\\Form1.cs",
+              "ToolTip": "C:\\Users\\Arafat\\Desktop\\Shop_Management_System-master\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Shop_Management_System-master\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T05:49:09.727Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

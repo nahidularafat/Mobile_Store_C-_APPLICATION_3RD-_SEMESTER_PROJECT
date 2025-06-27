@@ -1,0 +1,42 @@
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Shop_Management_System.exe.config
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Shop_Management_System.exe
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Shop_Management_System.pdb
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.csproj.AssemblyReference.cache
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.home.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.Properties.Resources.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.View.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.csproj.GenerateResource.cache
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.exe
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.pdb
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Mobile MS.mdf
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Mobile MS_log.ldf
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Hospital_Management_System.USER_LOGIN.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.create.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Guna.UI.dll
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Man.90E3B4CD.Up2Date
+C:\Users\Arafat\Desktop\Shop_Management_System-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.loading.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.mobile.resources
+C:\Users\Arafat\Desktop\Shop_Management_System-master\obj\Debug\Shop_Management_System.cus.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Mobile MS.mdf
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Mobile MS_log.ldf
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Shop_Management_System.exe.config
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Shop_Management_System.exe
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Shop_Management_System.pdb
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\bin\Debug\Guna.UI.dll
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.csproj.AssemblyReference.cache
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.create.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.cus.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.home.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.loading.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.mobile.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.Properties.Resources.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Hospital_Management_System.USER_LOGIN.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.View.resources
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.csproj.GenerateResource.cache
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Man.90E3B4CD.Up2Date
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.exe
+C:\Users\Arafat\Desktop\applications\Shop_Management_System-master\Shop_Management_System-master\obj\Debug\Shop_Management_System.pdb
